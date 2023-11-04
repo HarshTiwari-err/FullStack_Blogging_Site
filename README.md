@@ -49,8 +49,12 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-![1](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
----- -
-![2](https://user-images.githubusercontent.com/111676859/226197288-1f0cf951-dd30-464f-b70a-10c449fe33b4.png)
+![Screenshot (1828)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/7b11e1e7-eafa-4516-af2f-20dc1c269837)
+![Screenshot (1827)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/6044ec31-c677-4068-a612-65b034f60193)
+![Screenshot (1829)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/a5d058a8-0930-41ff-ab54-8ea1e479fc00)
+![Screenshot (1825)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/5b936b9a-8102-4aa3-a700-ba56852de726)
+![Screenshot (1826)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/27d3b2ca-b32f-4eec-b71a-cca2e117190e)
+
+
 
 
