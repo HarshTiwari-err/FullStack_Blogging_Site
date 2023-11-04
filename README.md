@@ -52,8 +52,7 @@ This project was created using the following technologies.
 ![SignUp)](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/7b11e1e7-eafa-4516-af2f-20dc1c269837)
 ![Login](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/6044ec31-c677-4068-a612-65b034f60193)
 ![Profile](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/a5d058a8-0930-41ff-ab54-8ea1e479fc00)
-![Home page](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/4e5d6686-3124-48f0-8c38-45941dffb2f5)
-
+![Home page](https://github.com/HarshTiwari-err/FullStack_Blogging_Site/assets/129328042/f8cfdd45-f03a-4a1b-815b-39aa6ff6dc76)
 
 
 
